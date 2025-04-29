@@ -11,6 +11,6 @@ The block is synchronized with the WordPress core data store — so if the selec
 -   WordPress block editor APIs
 -   `@wordpress/data` and `@wordpress/components`
 
-A recording of a demo showing how the block works in the editor.
-
 ---
+
+A recording of a demo showing how the block works in the editor.
