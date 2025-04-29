@@ -1,0 +1,1 @@
+{"version":3,"file":"picker/index.css","mappings":";;;AACC;EACC;AAAF,C","sources":["webpack://picker/./src/picker/editor.scss"],"sourcesContent":[".wp-block-term-picker-term-picker {\n\t.components-base-control__field {\n\t\tmargin-bottom: 0;\n\t}\n}"],"names":[],"sourceRoot":""}
