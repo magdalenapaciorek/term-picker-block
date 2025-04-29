@@ -14,3 +14,6 @@ The block is synchronized with the WordPress core data store — so if the selec
 ---
 
 A recording of a demo showing how the block works in the editor.
+
+https://github.com/user-attachments/assets/9e9b3101-d895-4116-a4fc-04282988ab00
+
