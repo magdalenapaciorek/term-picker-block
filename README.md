@@ -13,7 +13,8 @@ The block is synchronized with the WordPress core data store — so if the selec
 
 ---
 
-A recording of a demo showing how the block works in the editor.
+🧑‍💻 If you’d like to see a live demo in WP Playground <a href="https://playground.wordpress.net/?import-site=https%3A%2F%2Fraw.githubusercontent.com%2Fmagdalenapaciorek%2Fterm-picker-block%2Fmain%2Fplayground%2Fplayground-export-term-picker-block.zip&url=%2Fwp-admin%2Fpost.php%3Fpost%3D9%26action%3Dedit" target="_blank">click here</a> (open in Chrome).
+
+▶️ A recording of a demo showing how the block works in the editor:
 
 https://github.com/user-attachments/assets/9e9b3101-d895-4116-a4fc-04282988ab00
-
